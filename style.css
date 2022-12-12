@@ -1,0 +1,14 @@
+ul {
+  flex-flow: row wrap;
+  list-style: none;
+  text-transform: capitalize;
+}
+
+li:hover {
+  cursor: pointer;
+  font-size: 200%;
+}
+
+.done {
+  text-decoration: line-through;
+}
